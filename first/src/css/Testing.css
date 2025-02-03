@@ -1,0 +1,17 @@
+div{
+    background-color: salmon;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button{
+    background-color: rgb(252, 252, 254);
+    color: rgb(11, 10, 10);
+    
+}
