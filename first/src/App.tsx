@@ -1,8 +1,11 @@
-import Exchange from './pages/Exchange'
+// import Exchange from './pages/Exchange'
+import EventHandle from './pages/EventHandle'
+
 const App = () => {
   return (
     <>
-      <Exchange />
+      {/* <Exchange /> */}
+      <EventHandle />
     </>
   )
 }
