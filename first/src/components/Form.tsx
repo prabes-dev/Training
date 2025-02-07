@@ -10,7 +10,7 @@ const Form = () => {
   return (
     <div>
       <form>
-        <p>{name.firstName}-{name.lastName}</p>
+        <p>{name.firstName} - {name.lastName}</p>
         <input
           type="text"
           value={name.firstName}
